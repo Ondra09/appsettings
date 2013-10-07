@@ -13,5 +13,9 @@ set ruler
 set expandtab
 if has('gui_running')
 colorscheme solarized
+set background=dark
 endif
+
+map <F2> :mksession! ~/vim_session <cr> " Quick write session with F2
+map <F5> :source ~/vim_session <cr>     " And load session with F3
 
