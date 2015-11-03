@@ -9,7 +9,7 @@ choco install git -y
 choco install gitextensions -y
 choco install inkscape -pre -y
 choco install cdburnerxp -y
-choco install devbox-rapidee -y
+:: choco install devbox-rapidee -y
 choco install procexp -y
 choco install atom -y
 choco install sourcetree -y
