@@ -1,4 +1,4 @@
-choco install virtuawin -y
+:: choco install virtuawin -y
 choco install conemu -y
 choco install sublimetext3 -y
 choco install hxd -y
@@ -12,3 +12,5 @@ choco install cdburnerxp -y
 choco install devbox-rapidee -y
 choco install procexp -y
 choco install atom -y
+choco install sourcetree -y
+choco install wireshark -y
