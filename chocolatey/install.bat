@@ -14,3 +14,4 @@ choco install procexp -y
 choco install atom -y
 choco install sourcetree -y
 choco install wireshark -y
+choco install emacs -y
