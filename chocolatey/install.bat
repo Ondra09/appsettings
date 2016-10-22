@@ -3,6 +3,7 @@
 choco install sublimetext3 -y
 choco install hxd -y
 choco install firefox -y
+choco install filezilla -y
 choco install vlc -y
 choco install gimp -y
 choco install git -y
@@ -20,3 +21,4 @@ choco install visualstudiocode -y
 choco install dropbox -y
 choco install cmder -y
 choco install libreoffice -y
+choco install haroopad -y
