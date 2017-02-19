@@ -6,7 +6,7 @@ choco install hxd -y --force
 :: choco install filezilla -y --force
 choco install vlc -y --force
 ::choco install gimp -y --force
-:: choco install git -y --force
+choco install git -y --force
 choco install gitextensions -y --force
 choco install inkscape -pre -y --force
 :: choco install cdburnerxp -y --force
@@ -23,3 +23,4 @@ choco install cmder -y --force
 choco install libreoffice -y --force
 choco install haroopad -y --force
 choco install gitk -y --force
+choco install gow -y --force
